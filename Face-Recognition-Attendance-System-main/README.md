@@ -41,7 +41,7 @@ Attendance Management System based on Face Recognition using Python  and OpenCv
 <img src="https://github.com/HG-IMMORTALS/Face-Recognition-Attendance-System-main/blob/main/Face-Recognition-Attendance-System-main/Screenshot%20(38).png">
 
 
-### Video demo
+
 
 
 
