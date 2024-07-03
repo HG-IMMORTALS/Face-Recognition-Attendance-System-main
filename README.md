@@ -30,21 +30,18 @@ Attendance Management System based on Face Recognition using Python  and OpenCv
 ### Screenshots
 
 ### Basic UI
-<img src="https://github.com/Pragya9ps/Face-Recognition-Attendance-System/blob/main/Screenshot%20(31).png">
+<img src="https://github.com/HG-IMMORTALS/Face-Recognition-Attendance-System/blob/main/Screenshot%20(31).png">
 
 ### When it Recognises me
-<img src="https://github.com/Pragya9ps/Face-Recognition-Attendance-System/blob/main/Screenshot%20(33).png">
+<img src="https://github.com/HG-IMMORTALS/Face-Recognition-Attendance-System/blob/main/Screenshot%20(33).png">
 
 ### While filling automatic attendance
-<img src="https://github.com/Pragya9ps/Face-Recognition-Attendance-System/blob/main/Screenshot%20(38).png">
+<img src="https://github.com/HG-IMMORTALS/Face-Recognition-Attendance-System/blob/main/Screenshot%20(38).png">
 
 ### Manually attendance filling UI
-<img src="https://github.com/Pragya9ps/Face-Recognition-Attendance-System/blob/main/Screenshot%20(35).png">
+<img src="https://github.com/HG-IMMORTALS/Face-Recognition-Attendance-System/blob/main/Screenshot%20(35).png">
 
 
-### Video demo
-
-[Youtube](https://youtu.be/onms2KDOTtY)
 
 
 ### Notes
